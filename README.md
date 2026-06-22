@@ -20,7 +20,7 @@ npm install
 npm run dev
 ```
 
-Depois acesse o endereço exibido no terminal, normalmente `http://localhost:5173`.
+Depois acesse o endereço exibido no terminal.
 
 ## Fluxo para demonstrar
 
